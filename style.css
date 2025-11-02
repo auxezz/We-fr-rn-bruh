@@ -1,0 +1,17 @@
+
+
+body {
+    background-color: rgb(42, 41, 41);
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 15%;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
